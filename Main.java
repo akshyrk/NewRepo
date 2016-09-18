@@ -6,5 +6,6 @@ class Main
 		System.out.println("Modification from the local GUI");
 		System.out.println("Changes from remote");
 		System.out.println("local integration");
+		System.out.println("pulling remote branch and modified");
 	}
 }
